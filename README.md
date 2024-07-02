@@ -1,4 +1,4 @@
-# Projeto Podcast IoT
+# Projeto Podcast IoT - Internet das Coisas
 
 ## Título do Podcast
 
