@@ -2,7 +2,7 @@
 
 ## Título do Podcast
 
-    **Futuro IoT: Inovações Conectadas**
+Futuro IoT: Inovações Conectadas
 
 ## Descrição
 
